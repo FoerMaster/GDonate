@@ -17,10 +17,10 @@ $config['db'][1] =
 /**
  * @var $config['domain'] domain for short link service
  */
-$config['domain']['name'] = "payment.user-api.site"; // URL Без HTTPS или HTTP
-$config['domain']['http'] = "http://payment.user-api.site/";// URL Тут с HTTP
-$config['domain']['https'] = "https://payment.user-api.site/";// URL Тут с HTTPS
-$config['domain']['surl'] = "https://payment.user-api.site/"; //путь до обработчика сейчас это index.php
+$config['domain']['name'] = "payment.example.com"; // URL Без HTTPS или HTTP
+$config['domain']['http'] = "http://payment.example.com/";// URL Тут с HTTP
+$config['domain']['https'] = "https://payment.example.com/";// URL Тут с HTTPS
+$config['domain']['surl'] = "https://payment.example.com/"; //путь до обработчика сейчас это index.php
 
 
 /**
